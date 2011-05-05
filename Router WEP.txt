@@ -1,0 +1,8 @@
+k96859sra6857
+
+C:\Qt\2010.05\mingw\bin;
+C:\Programme\Java\jdk1.6.0_23\bin;
+C:\Qt\2010.05\qt\bin;
+C:\Programme\GnuWin32\bin;
+C:\Qt\2010.05\bin;
+C:\OpenCVBuild\bin
