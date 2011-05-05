@@ -6,3 +6,7 @@ C:\Qt\2010.05\qt\bin;
 C:\Programme\GnuWin32\bin;
 C:\Qt\2010.05\bin;
 C:\OpenCVBuild\bin
+
+
+
+ein extra zeile von mir
